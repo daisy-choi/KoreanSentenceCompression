@@ -9,8 +9,8 @@ source sentence \t target sentence
 ```
 
 * extend.txt
- * The number of total pair: 1031
- * Its source sentences are sampled from Wikipedia
+  * The number of total pair: 1031
+  * Its source sentences are sampled from Wikipedia
 ```
 source sentence \t target sentence
 ```
